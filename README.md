@@ -1,5 +1,25 @@
 # Frontend - How to Run
 
+## Screenshots
+
+![Login Page](screenshots/login.png)
+*User Login Page*
+
+![Register Page](screenshots/resgistor.png)
+*User Registration Page*
+
+![Web Search](screenshots/web_search.png)
+*Web Search Interface with Results*
+
+![Image Generation](screenshots/Image_Gen.png)
+*Image Generation from Text Prompts*
+
+![Dashboard](screenshots/Dashboard.png)
+*Dashboard with Saved Items*
+
+![Dashboard 2](screenshots/Dash 2.png)
+*Dashboard View with Filters*
+
 ## Prerequisites
 - Node.js 18+
 - npm or yarn
