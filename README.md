@@ -15,10 +15,10 @@
 *Image Generation from Text Prompts*
 
 ![Dashboard](screenshots/Dashboard.png)
-*Dashboard with Saved Items*
+*Dashboard View*
 
-![Dashboard 2](screenshots/Dash 2.png)
-*Dashboard View with Filters*
+![Dashboard with Saved Items](screenshots/dashboord_with_saved.png)
+*Dashboard with Saved Items*
 
 ## Prerequisites
 - Node.js 18+
